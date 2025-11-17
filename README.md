@@ -16,6 +16,7 @@
 🎯 Goals: Aspiring to be a skilled FullStack Developer.<br>
 🎲 Fun fact: I'm a fan of Viktor Frankl and Søren Kierkegaard.
 </p>
+
 ###
 
 <h2 align="left">Skills</h2>
